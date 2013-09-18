@@ -1,7 +1,7 @@
-# Sampledroid project #
-
-> I hear and I forget. I see and I remember. I do and I understand.
+> I hear and I forget. I see and I remember. I do and I understand.  
 > Confucius
+
+# Sampledroid project #
 
 ## Description ##
 Here goes a brief description of your project and ideas regarding it.
